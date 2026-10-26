@@ -19,7 +19,7 @@ enrichment, with example input and a representative figure.
 
 - R and Bash scripting
 - Downstream RNA-seq and ChIP-seq analysis
-- Genomic annotation, pathway enrichment, and visualization## Hi there 👋
+- Genomic annotation, pathway enrichment, and visualization
 
 <!--
 **kristensandys/kristensandys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
